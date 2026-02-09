@@ -30,5 +30,9 @@ Responsive fashion ecommerce frontend built using HTML, CSS, and JavaScript.
 
 ---
 
+## 🔗 Live Demo
+https://famms-ecommerce-tanya.netlify.app/
+---
 ## 👩‍💻 Author
 Tanya 
+
