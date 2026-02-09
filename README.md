@@ -1,47 +1,34 @@
 # 🛍 Fashion E-Commerce Frontend
 
-A responsive e-commerce frontend website built using HTML, CSS, and JavaScript.  
-Includes cart functionality using LocalStorage and interactive UI components.
+Responsive fashion ecommerce frontend built using HTML, CSS, and JavaScript.
 
 ---
 
 ## 🚀 Features
-
-- Responsive product grid layout
+- Responsive product grid
 - Add to Cart functionality
 - Cart counter in navbar
 - Cart page with remove item feature
 - LocalStorage cart persistence
-- Toast notification when item added
+- Toast notification
 - Dropdown navigation menu
-- Customer testimonial section
 
 ---
 
 ## 🛠 Tech Stack
-
 - HTML5
-- CSS3 (Flexbox + Grid)
-- JavaScript (DOM + LocalStorage)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots later)
+- CSS3
+- JavaScript
+- LocalStorage
 
 ---
 
 ## 🎯 Learning Outcome
-
 - DOM Manipulation
 - State management using LocalStorage
 - Responsive UI design
-- Component-based layout thinking
 
 ---
 
-## 🔗 Live Demo
-(Add Netlify / Vercel link later)
-
----
+## 👩‍💻 Author
+Tanya 
